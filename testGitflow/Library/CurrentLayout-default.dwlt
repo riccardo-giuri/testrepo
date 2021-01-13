@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 33
+  controlID: 56
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -450,11 +450,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.025950834, y: 0.97247577, z: -0.18935665, w: -0.13327542}
     speed: 2
-    m_Value: {x: -0.026234832, y: 0.9722744, z: -0.18931745, w: -0.13473395}
+    m_Value: {x: -0.025950825, y: 0.9724754, z: -0.18935658, w: -0.13327537}
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 22
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -667,7 +667,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7afbffff
+      m_ExpandedIDs: 74fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -736,14 +736,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: C:\Users\Drako\Desktop\testGitflow
+  m_LastProjectPath: C:\Users\Drako\Desktop\Unity\repo progetto\testrepo\testGitflow
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa2c0000
-    m_LastClickedID: 11514
-    m_ExpandedIDs: 00000000fa2c000000ca9a3b
+    m_SelectedIDs: c82c0000
+    m_LastClickedID: 11464
+    m_ExpandedIDs: 00000000c82c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -771,7 +771,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f6e9ffff
     m_LastClickedID: -5642
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000c82c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
